@@ -8,6 +8,16 @@ We are very thankful of them, but there are several issues in this API, but don'
 
 ## How to Use
 
+### Clone the repo
+```bash
+git clone https://github.com/mohammadsobhanst/crypto-coin-converter/
+```
+
+### Install the requirements
+```bash
+pip install -r requirements.txt
+```
+
 ### Check a coin price
 ```bash
 python3 main.py -p {symbol}
