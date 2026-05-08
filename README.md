@@ -10,7 +10,7 @@ We are very thankful of them, but there are several issues in this API, but don'
 
 ### Clone the repo
 ```bash
-git clone https://github.com/mohammadsobhanst/crypto-coin-converter/
+git clone https://github.com/mohammadsobhanst/crypto-coin-converter/ && cd crypto-coin-converter
 ```
 
 ### Install the requirements
