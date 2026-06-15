@@ -22,6 +22,10 @@ pip install -r requirements.txt
 ```bash
 python3 main.py -p {symbol}
 ```
+### Convert a coin to another
+```bash
+python3 main.py -c {value} {coin} {another_coin}
+```
 ### List of all symbols
 ```bash
 python3 main.py -a
